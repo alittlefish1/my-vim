@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/zmq/study_file/suricata-suricata-5.0.0/doc/userguide'
+let g:netrw_dirhist_2='/home/zmq/study_file/suricata-suricata-5.0.0/doc'
+let g:netrw_dirhist_3='/home/zmq/zhedang/updir/videosnarf-0.63/src'
